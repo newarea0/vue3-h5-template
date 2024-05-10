@@ -27,3 +27,5 @@ coverage
 
 /src/typings/components.d.ts
 /src/typings/auto-imports.d.ts
+
+/mock/list.mock.ts.timestamp-*
